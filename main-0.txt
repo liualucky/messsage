@@ -1,0 +1,9 @@
+acupoint_app/
+├── main.py
+├── data/
+│   └── diseases.json
+├── assets/
+│   └── app.ico
+├── build.bat
+├── requirements.txt
+└── README.md
